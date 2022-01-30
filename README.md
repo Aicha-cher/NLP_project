@@ -12,6 +12,7 @@ each testimony is discussing.
 *  Clone this repository
 *  Download and unzip the dataset from <https://kilthub.cmu.edu/articles/dataset/E-thos_Project_Climate_Change/12964481?file=24696203> in folder called **data** in the prject directory
 *  install the dependencies in the beginning of the topic_modeling.R script
+*  Run topic_modeling.R script
 
 ## Collobtorator 
 
